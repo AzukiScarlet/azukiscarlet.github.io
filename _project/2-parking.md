@@ -16,12 +16,46 @@ collection: project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mb3_W8PnnWk?si=komb0BwtIv83fRiv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## 轻量级仿真效果
+## 轻量级规划平台仿真效果
 
-<iframe src="/images/figures/project/parking/OpenSpace_output_20.html" width="820" height="620"></iframe>
-<iframe src="/images/figures/project/parking/Urban_Complex_Space_output_5.html" width="820" height="620"></iframe>
+我们首先在[轻量级的仿真平台](/project/1-simulaton)中搭建了复杂的泊车场景用以验证我们的算法，一些场景展示如下，可以拖动滑条查看泊车效果。
 
+<iframe src="/images/figures/project/parking/OpenSpace19_video.html" width="820" height="620"></iframe>
+<iframe src="/images/figures/project/parking/OpenSpace20_video.html" width="820" height="620"></iframe>
+<iframe src="/images/figures/project/parking/Urban_Complex_Space8_video.html" width="820" height="620"></iframe>
+<iframe src="/images/figures/project/parking/Urban_Complex_Space5_video.html" width="820" height="620"></iframe>
 
 ## CARLA仿真效果
 
+随后我们在更加真实的CARLA仿真平台验证算法规划轨迹的可控性，再模型不精确的情况下对我们的时空解耦的规划轨迹座横纵解耦的控制，纵向速度控制采用PID控制，横向控制采用MPC控制。
+
+<!-- <img src="/images/figures/project/parking/video.png" alt="CARLA 仿真效果" style="width: 50%; height: auto; display: block; margin: auto;"> -->
+
+<!-- <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center;">
+    <video src="/images/figures/project/parking/v1.mp4" controls width="320"></video>
+    <video src="/images/figures/project/parking/v2.mp4" controls width="320"></video>
+    <video src="/images/figures/project/parking/v3.mp4" controls width="320"></video>
+</div> -->
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-items: center;">
+  <video controls width="320">
+    <source src="/images/figures/project/parking/v1.webm" type="video/webm">
+  </video>
+  <video controls width="320">
+    <source src="/images/figures/project/parking/v2.webm" type="video/webm">
+  </video>
+  <video controls width="320">
+    <source src="/images/figures/project/parking/v3.webm" type="video/webm">
+  </video>
+</div>
+
 ## Apollo平台效果
+
+最后我们将我们的规划算法在Apollo平台的apollo-dev-dkit设备进行sim2real的实际无人驾驶车辆的验证。针对感知数据进行滚动规划。同时以100hz的频率对自车进行横纵解耦的控制跟踪规划轨迹。其中纵向控制采用PID控制，横向控制采用LQR控制
+<div style="display: flex; justify-content: center;">
+    <video controls style="max-width: 100%; height: auto;">
+        <source src="/images/figures/project/parking/apollo.webm" type="video/webm">
+        Your browser does not support the video tag.
+    </video>
+</div>
+
