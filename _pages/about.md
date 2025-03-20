@@ -8,7 +8,7 @@ redirect_from:
 ---
 ---
 
-**李想**，哈尔滨工业大学（深圳）机器人与先进制造学院在读研究生。2024年获得哈尔滨工业大学（深圳）自动化专业学士学位（导师：[李衍杰教授](https://faculty.hitsz.edu.cn/liyanjie)），2024年至今哈尔滨工业大学（深圳）控制科学与工程专业硕士研究生在读（导师：[李衍杰教授](https://faculty.hitsz.edu.cn/liyanjie)，[楼云江教授](https://faculty.hitsz.edu.cn/louyunjiang)）。研究方向为智能驾驶决策规划与控制，端到端的智能驾驶，模仿学习等。机器人领域顶会IROS2025在投论文2篇。
+**李想**，哈尔滨工业大学（深圳）机器人与先进制造学院在读研究生。2024年获得哈尔滨工业大学（深圳）自动化专业学士学位（导师：[李衍杰教授](https://faculty.hitsz.edu.cn/liyanjie)），2024年至今哈尔滨工业大学（深圳）控制科学与工程专业硕士研究生在读（导师：[李衍杰教授](https://faculty.hitsz.edu.cn/liyanjie)，[楼云江教授](https://faculty.hitsz.edu.cn/louyunjiang)）。研究方向为智能驾驶决策规划与控制，端到端的智能驾驶，模仿学习，强化学习等。机器人领域顶会IROS2025在投论文2篇。
 
 **Xiang Li** is a master's student at the School of Robotics and Advanced Manufacturing, Harbin Institute of Technology, Shenzhen. He obtained his Bachelor's degree in Automation from Harbin Institute of Technology, Shenzhen, in 2024, under the supervision of [Prof. Yanjie Li](https://faculty.hitsz.edu.cn/liyanjie). Since 2024, he has been pursuing a Master's degree in Control Science and Engineering at the same institution, supervised by [Prof. Yanjie Li](https://faculty.hitsz.edu.cn/liyanjie) and [Prof. Yunjiang Lou](https://faculty.hitsz.edu.cn/louyunjiang). His research interests include decision-making, planning, and control for autonomous driving, end-to-end autonomous driving, and imitation learning. He has submitted two papers to IROS 2025, a top-tier conference in the field of robotics.
 
