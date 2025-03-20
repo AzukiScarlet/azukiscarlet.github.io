@@ -6,7 +6,7 @@ collection: project
 
 ## 项目简介
 
-> "One-stage Trajectory Planning With Conflict-based Optimization for Autonomous Driving," in  2025 IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)(Under Review).
+> "One-stage Trajectory Planning With Conflict-based Optimization for Autonomous Driving," in  2025 IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS2025 under review).
 
 轨迹规划是自动驾驶系统的关键组成部分。传统的两阶段轨迹规划方法通常包含前端粗略路径生成和后端优化，但这些方法存在以下局限性：1) 由于需要大量碰撞检测，计算效率较低；2) 由于两阶段结构对解空间的限制，生成的轨迹可能不是最优的。 
 为了解决这些问题，我们提出了一种单阶段轨迹规划方法，该方法大幅减少了碰撞检测需求。首先，根据简单的参考路径（如车道中心线）生成初始 B-spline 轨迹；然后，计算控制点的障碍物排斥力；最后，将该问题构建为一个最优控制问题并求解，以获得最终轨迹。通过引入**障碍物碰撞解除机制**，我们减少了对碰撞检测的依赖，从而提升了计算效率。此外，单阶段优化框架具有更大的解空间，能够生成质量更高的轨迹。实验结果表明，与现有最先进的方法相比，该方法不仅规划速度更快，而且生成的轨迹质量更优。  

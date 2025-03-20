@@ -86,8 +86,8 @@ redirect_from:
 
 主要科研成果
 ------
-- Xiang Li, Ke Lin, Xiaoqing Yang et al. "Avp-slam: Semantic visual mapping and localization for autonomous vehicles in the parking lot," in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)(Under Review).
-- Xiaoqing Yang, Ke Lin, Xiang Li, et al. "One-stage Trajectory Planning With Conflict-based Optimization for Autonomous Driving," in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS)(Under Review)
+- Xiang Li, Ke Lin, Xiaoqing Yang et al. "Avp-slam: Semantic visual mapping and localization for autonomous vehicles in the parking lot," in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025 under review).
+- Xiaoqing Yang, Ke Lin, Xiang Li, et al. "One-stage Trajectory Planning With Conflict-based Optimization for Autonomous Driving," in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS2025 under review)
 - 专利在审
 
 
