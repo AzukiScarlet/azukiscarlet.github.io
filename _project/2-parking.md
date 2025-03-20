@@ -51,11 +51,11 @@ collection: project
 
 ## Apollo平台效果
 
-最后我们将我们的规划算法在Apollo平台的apollo-dev-dkit设备进行sim2real的实际无人驾驶车辆的验证。针对感知数据进行滚动规划。同时以100hz的频率对自车进行横纵解耦的控制跟踪规划轨迹。其中纵向控制采用PID控制，横向控制采用LQR控制
+最后我们将我们的规划算法在Apollo平台的apollo-dev-dkit设备进行sim2real的实际无人驾驶车辆的验证。针对感知数据进行滚动规划。同时以100hz的频率对自车进行横纵解耦的控制跟踪规划轨迹。其中纵向控制采用PID控制，横向控制采用LQR控制。
+
 <div style="display: flex; justify-content: center;">
     <video controls style="max-width: 100%; height: auto;">
         <source src="/images/figures/project/parking/apollo.webm" type="video/webm">
-        Your browser does not support the video tag.
     </video>
 </div>
 
