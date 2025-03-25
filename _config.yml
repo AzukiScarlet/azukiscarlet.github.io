@@ -22,7 +22,7 @@ repository               : "AzukiScarlet/azukiscarlet.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/figures/home_page/head.jpg"
+  avatar           : "/figures/home_page/init.jpg"
   name             : "李想"
   pronouns         : # example: "she/her"  
   bio              : "智能驾驶：决策，轨迹规划，端到端"
