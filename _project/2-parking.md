@@ -18,7 +18,7 @@ collection: project
 
 ## 轻量级规划平台仿真效果
 
-我们首先在[轻量级的仿真平台](/project/1-simulaton)中搭建了复杂的泊车场景用以验证我们的算法，一些场景展示如下，可以拖动滑条查看泊车效果。
+我们首先在[轻量级的仿真平台](/project/1-simulation)中搭建了复杂的泊车场景用以验证我们的算法，一些场景展示如下，可以拖动滑条查看泊车效果。
 
 <iframe src="/images/figures/project/parking/OpenSpace19_video.html" width="820" height="620"></iframe>
 <iframe src="/images/figures/project/parking/OpenSpace20_video.html" width="820" height="620"></iframe>

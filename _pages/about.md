@@ -36,7 +36,7 @@ redirect_from:
 <div style="display: flex; align-items: flex-start; text-decoration: none; margin-bottom: 10px;">
     <img src='/images/figures/project/simulation/post.jpg' alt="Simulation Project" width="250" style="margin-right: 15px; border-radius: 8px;">
     <div style="display: flex; flex-direction: column;">
-        <a href="/project/1-simulaton" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #0073e6;">
+        <a href="/project/1-simulation" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #0073e6;">
             面向决策与规划的轻量化自动驾驶仿真环境
         </a>
         <p style="margin: 5px 0 0; color: #555; font-size: 14px;">
