@@ -12,7 +12,8 @@ collection: project
 ## 日志回放仿真环境
 
 日志回访环境直接以数据库的数据驱动，在仿真环境中作日志式回放。
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=707467429&bvid=BV17Q4y137HY&cid=1373315478&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=707467429&bvid=BV17Q4y137HY&cid=1373315478&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=622465645&bvid=BV1jb4y1V7Y5&cid=1373315484&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=324879297&bvid=BV1Cw411x7tG&cid=1373315179&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=707414476&bvid=BV1DQ4y1g7Du&cid=1373315490&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
@@ -20,21 +21,24 @@ collection: project
 ## 交互式仿真环境
 
 交互式仿真环境要考虑自车与周围智能体进行交互，周围智能体同样以数据库的数据为基础，但额外引入了IDM模型作为交互控制。
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=664952676&bvid=BV1ka4y1r72f&cid=1373315445&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=664952676&bvid=BV1ka4y1r72f&cid=1373315445&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=622487745&bvid=BV1Gb4y1V7NY&cid=1373315451&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=237395688&bvid=BV1Qe411k7zW&cid=1373315454&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=409940622&bvid=BV1JG411Y7yy&cid=1373315171&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 行车定向场景
 
-针对泊车，我们设计了五类定向场景包括狭窄道路通行、避让前方障碍物或静止车辆、避让前方低速车辆、普通行驶情况、换道加速超车。
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=452463555&bvid=BV1dj411n7dq&cid=1373315494&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+针对行车，我们设计了五类定向场景包括狭窄道路通行、避让前方障碍物或静止车辆、避让前方低速车辆、普通行驶情况、换道加速超车。
+
+<iframe src="https://player.bilibili.com/player.html?isOutside=true&aid=452463555&bvid=BV1dj411n7dq&cid=1373315494&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=237412406&bvid=BV1ue411C77U&cid=1373315186&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=324879407&bvid=BV1Cw411x7FP&cid=1373315582&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 泊车定向场景
 
 针对复杂的泊车场景，主要是静态的场景，我们将其非为开放空间和城市空间两种，并在此基础上加入了随机生成泊车场景的功能。
+
 <div class="grid-container" style="
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -48,4 +52,3 @@ collection: project
   <img src="/images/figures/project/simulation/par_5.jpg" loading="lazy">
   <img src="/images/figures/project/simulation/par_6.jpg" loading="lazy">
 </div>
-
