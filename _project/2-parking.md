@@ -27,7 +27,7 @@ collection: project
 
 ## CARLA仿真效果
 
-随后我们在更加真实的CARLA仿真平台验证算法规划轨迹的可控性，在模型不精确的情况下对我们的时空解耦的规划轨迹座横纵解耦的控制，纵向速度控制采用PID控制，横向控制采用MPC控制。
+随后我们在更加真实的CARLA仿真平台验证算法规划轨迹的可控性，在模型不精确的情况下对我们的时空解耦的规划轨迹座横纵解耦的控制，纵向速度和横向控制采用MPC控制。
 
 <!-- <img src="/images/figures/project/parking/video.png" alt="CARLA 仿真效果" style="width: 50%; height: auto; display: block; margin: auto;"> -->
 
