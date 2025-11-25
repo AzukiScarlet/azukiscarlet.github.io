@@ -209,6 +209,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  math_engine: katex  # 添加这一行
 
 
 # These settings control the types of collections used by the template
@@ -351,3 +352,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+

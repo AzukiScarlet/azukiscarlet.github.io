@@ -21,7 +21,7 @@ redirect_from:
 - **端到端与模仿学习**：基于模仿学习的智能驾驶端到端轨迹规划
 - **车辆控制**：依照车辆动力学进行横纵解耦的轨迹跟踪控制
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mb3_W8PnnWk?si=nrnnzrp5Oo9HtZ1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hLDqkyEGJfs?si=KVpLa1_rGvbzfAA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 技术栈
 ------
@@ -81,13 +81,25 @@ redirect_from:
     </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; text-decoration: none; margin-bottom: 10px;">
+    <img src='/images/figures/project/diffphys/cover.png' alt="Simulation Project" width="250" style="margin-right: 15px; border-radius: 8px;">
+    <div style="display: flex; flex-direction: column;">
+        <a href="/project/5-diffphys" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #0073e6;">
+            端到端的地面全向配送车局部集群规划算法
+        </a>
+        <p style="margin: 5px 0 0; color: #555; font-size: 14px;">
+            该项目基于可微物理仿真的端到端学习框架，进行Zero Shot的部署，实现了多台地面全向配送车的端到端集群局部路径规划算法，由激光雷达提供深度信息引导，自主完成避障抵达上层规划目标终点。完成了从SIL-PIL-REAL的测试闭环以及调度压力测试，动态协同避障测试等场景测试。
+        </p>
+    </div>
+</div>
+
 
 
 
 主要科研成果
 ------
-- Xiang Li, Ke Lin, Xiaoqing Yang et al. "Trajectory Planning for Autonomous Driving through Environmental Assessment: Achieving Flexible Parking in Extreme Scenarios," in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2025 under review).
-- Xiaoqing Yang, Ke Lin, Xiang Li, et al. "One-stage Trajectory Planning With Conflict-based Optimization for Autonomous Driving," in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems(IROS2025 under review)
+- Xiang Li, Ke Lin, Xiaoqing Yang et al. “Flexible Trajectory Planning for Autonomous Vehicles via Environmental Assessment in Extreme Scenarios,” in 2026 IEEE International Conference on Robotics and Automation (ICRA2026 under review).
+- Xiaoqing Yang, Ke Lin, Xiang Li, et al. “One-stage Trajectory Planning With Conflict-based Optimization for Autonomous Driving,” in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems.
 <!-- - 专利在审 -->
 
 
