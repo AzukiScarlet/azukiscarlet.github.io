@@ -79,8 +79,8 @@ $$
     <video controls style="max-width: 100%; height: auto;">
         <source src="/images/figures/project/diffphys/训练.mp4" type="video/webm">
     </video>
-    <p style="text-align: center; font-size: 14px; color: #666; margin-top: 10px;">训练过程可视化</p>
 </div>
+<p style="text-align: center; font-size: 14px; color: #666; margin-top: 10px;">训练过程可视化</p>
 
 ### 仿真部署
 
@@ -88,8 +88,8 @@ $$
     <video controls style="max-width: 100%; height: auto;">
         <source src="/images/figures/project/diffphys/ue.mp4" type="video/webm">
     </video>
-    <p style="text-align: center; font-size: 14px; color: #666; margin-top: 10px;"> UE+gazebo联合仿真部署</p>
 </div>
+<p style="text-align: center; font-size: 14px; color: #666; margin-top: 10px;"> UE+gazebo联合仿真部署</p>
 
 ### 实机部署
 
@@ -97,15 +97,15 @@ $$
     <video controls style="max-width: 100%; height: auto;">
         <source src="/images/figures/project/diffphys/换电.mp4" type="video/webm">
     </video>
-    <p style="text-align: center; font-size: 14px; color: #666; margin-top: 10px;">实机部署换电演示</p>
 </div>
+<p style="text-align: center; font-size: 14px; color: #666; margin-top: 10px;">实机部署换电演示</p>
 
 <div style="display: flex; justify-content: center;">
     <video controls style="max-width: 100%; height: auto;">
         <source src="/images/figures/project/diffphys/case.mp4" type="video/webm">
     </video>
-    <p style="text-align: center; font-size: 14px; color: #666; margin-top: 10px;">实机部署集群避障性能演示</p>
 </div>
+<p style="text-align: center; font-size: 14px; color: #666; margin-top: 10px;">实机部署集群避障性能演示</p>
 
 
 
