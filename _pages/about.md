@@ -73,10 +73,10 @@ redirect_from:
     <img src='/images/figures/project/e2e/post.png' alt="Simulation Project" width="250" style="margin-right: 15px; border-radius: 8px;">
     <div style="display: flex; flex-direction: column;">
         <a href="/project/4-e2e" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #0073e6;">
-            端到端的泊车轨迹规划
+            多模态一站式端到端的泊车轨迹规划与控制
         </a>
         <p style="margin: 5px 0 0; color: #555; font-size: 14px;">
-            该项目针对停车场泊车场景中的端到端快速轨迹规划，通过传统的轨迹规划算法和横纵解耦的MPC控制器生成大量的泊车数据。再利用端到端相关模仿学习结合残差强化学习的方式进行端到端的泊车轨迹规划。目前已完成了在CARLA仿真平台的数据集构建。
+            该项目针对停车场泊车场景中的端到端快速轨迹规划，通过传统的轨迹规划算法和横纵解耦的MPC控制器生成大量的泊车数据。再利用端到端相关模仿学习结合残差强化学习的方式进行端到端的泊车轨迹规划与控制。提升了多模态传感器的融合能力和长时序的泊车任务中的策略鲁棒性。
         </p>
     </div>
 </div>
