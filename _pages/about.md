@@ -93,6 +93,18 @@ redirect_from:
     </div>
 </div>
 
+<div style="display: flex; align-items: flex-start; text-decoration: none; margin-bottom: 10px;">
+    <img src='/images/figures/project/worldmodel/cover.png' alt="REALM World Model Project" width="250" style="margin-right: 15px; border-radius: 8px;">
+    <div style="display: flex; flex-direction: column;">
+        <a href="/project/6-worldmodel" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #0073e6;">
+            基于潜在世界模型在线评估的多模态轨迹规划
+        </a>
+        <p style="margin: 5px 0 0; color: #555; font-size: 14px;">
+            该项目结合模仿学习与闭环强化微调生成高质量多模态候选轨迹，并利用潜在世界模型为不同候选并行推演未来场景状态。多目标学习式评估器综合安全、效率和舒适性完成在线轨迹排序，在nuPlan闭环规划基准的困难场景中取得了领先表现。
+        </p>
+    </div>
+</div>
+
 
 
 
