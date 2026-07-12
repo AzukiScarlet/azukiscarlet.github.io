@@ -110,8 +110,9 @@ redirect_from:
 
 主要科研成果
 ------
-- Xiang Li, Ke Lin, Xiaoqing Yang et al. “Flexible Trajectory Planning for Autonomous Vehicles via Environmental Assessment in Extreme Scenarios,” in 2026 IEEE International Conference on Robotics and Automation (ICRA2026 under review).
-- Xiaoqing Yang, Ke Lin, Xiang Li, et al. “One-stage Trajectory Planning With Conflict-based Optimization for Autonomous Driving,” in 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems.
+- [1] **Xiang Li**, Ke Lin, Xiaoqing Yang et al. “Flexible Trajectory Planning for Autonomous Vehicles via Environmental Assessment in Extreme Scenarios,” in 2026 IEEE International Conference on Robotics and Automation (ICRA 2026).
+- [2] **Xiang Li**, Yuxiang Wang, Xiaoqing Yang et al. “E-RAMP: Robust End-to-End Parking with Multi-Modal Fusion and Residual Action Correction,” in 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026).
+- [3] Yuxiang Wang, **Xiang Li**, Xiaoqing Yang, Yanjie Li. “REALM: Reinforcement Fine-Tuning with Latent World Model Based Online Evaluation for Multimodal Planning,” in 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026).
 <!-- - 专利在审 -->
 
 
